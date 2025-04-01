@@ -30,10 +30,13 @@ Created dimension tables and fact table for easy data modelling, find and replac
 
 Automatically derived relationships were adjusted and replaced with the required relationship.
 
-Auto model                        | Adjusted model
-----------------------------------|----------------------------
+Auto model 
 
-![NYC Collision auto model](https://github.com/user-attachments/assets/a056e242-24e4-4e07-a8db-a8e3c2a327df) | ![NY collision adjusted model](https://github.com/user-attachments/assets/f8e3627f-843a-4896-bd50-2dc055c27e23)
+![NYC Collision auto model](https://github.com/user-attachments/assets/a056e242-24e4-4e07-a8db-a8e3c2a327df) 
+
+Adjusted model
+
+![NY collision adjusted model](https://github.com/user-attachments/assets/f8e3627f-843a-4896-bd50-2dc055c27e23)
 
 There are 2 dimension and 1 fact tables and the dimension tables were joined to the fact table using the one-to-many relationship.
 
